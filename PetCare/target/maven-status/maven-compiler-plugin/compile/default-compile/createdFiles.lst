@@ -1,0 +1,17 @@
+com\example\demo\Controller\UserController.class
+com\example\demo\serviceInterface\postServiceInter.class
+com\example\demo\service\userService.class
+com\example\demo\service\EmailServiceImpl.class
+com\example\demo\Model\User.class
+com\example\demo\Model\Posts.class
+com\example\demo\Repository\EmailOtpReposiotory.class
+com\example\demo\PetCareApplication.class
+com\example\demo\Others\EmailUtil.class
+com\example\demo\Repository\UserRepository.class
+com\example\demo\Others\GenerateOTP.class
+com\example\demo\Model\EmailOtp.class
+com\example\demo\serviceInterface\userRepo.class
+com\example\demo\service\postServiceImpl.class
+com\example\demo\Controller\PostController.class
+com\example\demo\Repository\postRepository.class
+com\example\demo\serviceInterface\EmailServiceInter.class
